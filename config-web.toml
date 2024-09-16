@@ -1,0 +1,16 @@
+baseURL = 'http://cookme.cc/'
+languageCode = 'en-us'
+title = 'CookMe.cc'
+theme = 'lugo'
+enableEmoji = true
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

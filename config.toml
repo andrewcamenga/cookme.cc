@@ -1,0 +1,16 @@
+baseURL = 'http://cooking.local/'
+languageCode = 'en-us'
+title = 'LOCALHOST'
+theme = 'lugo'
+enableEmoji = true
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
