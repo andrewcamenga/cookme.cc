@@ -1,9 +1,9 @@
 ---
-title: Quick and Easy Pizza Crust
+title: Quick and Easy Pizza Dough
 sourceurl: http://allrecipes.com/Recipe-Tools/Print/Recipe.aspx?recipeID=20171&origin=detail&servings=8&metric=false
 tags: ['pizza','dough']
 date: 2024-09-16
-pdf: pizza-crust-quick-easy.pdf
+pdf: pizza-dough-quick.pdf
 ---
 
 - Prep Time: 20 minutes (15 of that is resting)

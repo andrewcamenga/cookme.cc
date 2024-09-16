@@ -3,7 +3,7 @@ title: No Cook Pizza Sauce
 tags: ['pizza', 'tomato']
 date: 2023-02-20
 author: "Andrew J. Camenga"
-pdf: pizza-sauce-no-cook.pdf
+pdf: pizza-sauce-simple.pdf
 source: none - original
 ---
 

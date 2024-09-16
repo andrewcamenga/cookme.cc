@@ -3,7 +3,7 @@ title: German SDB Communion Bread
 tags: ['communion','bread']
 date: 2020-11-15
 source: "typed index card, original lost without image"
-pdf: communion-bread-german-sdb.pdf
+pdf: communion-bread.pdf
 ---
 
 - Prep Time: unknown

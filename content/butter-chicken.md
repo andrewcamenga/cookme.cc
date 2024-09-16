@@ -1,11 +1,13 @@
 ---
-title: Butter Chicken - Instant Pot
-tags: ['chicken','indian','tomato']
+title: Butter Chicken
+tags: ['chicken','indian','instant pot']
+author: ajcam
 date: 2024-09-13
 sourceurl: https://littlesunnykitchen.com/instant-pot-butter-chicken/
-pdf: butter-chicken-instant-pot.pdf
-categories: ['main',]
+pdf: butter-chicken.pdf
 ---
+
+**NOTE:** Instant Pot version
 
 |                    |        |
 | ------------------ | ------ |
@@ -43,7 +45,7 @@ recipe with comparatively light prep. The most time consuming part is cutting up
 4. Turn off the saute setting. 
 5. Add the tomato sauce with ¼ cup of water. 
 6. Add the chicken thighs, give everything a mix.
-7. Pressure cook for 6 minutes at high pressure.  
+7. Pressure cook for 6 minutes at high pressure.
 8. When cycle ends, quickly release the steam.
 9. Remove lid. Restart saute mode. 
 10. Stir in the cream.

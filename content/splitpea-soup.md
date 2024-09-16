@@ -1,7 +1,7 @@
 ﻿---
 sourceurl: https://www.bowlofdelicious.com/instant-pot-split-pea-soup-ham-bone/
 title: Split Pea Soup with Ham
-pdf: split-pea-soup-with-ham.pdf
+pdf: splitpea-soup.pdf
 ---
 
 
