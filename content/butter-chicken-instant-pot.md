@@ -4,31 +4,36 @@ tags: ['chicken','indian','tomato']
 date: 2024-09-13
 sourceurl: https://littlesunnykitchen.com/instant-pot-butter-chicken/
 pdf: butter-chicken-instant-pot.pdf
+categories: ['main',]
 ---
 
-- Prep Time: 10 min
-- Pressure Cook Time: 6 min
-- Servings: 6
+|                    |        |
+| ------------------ | ------ |
+| Prep Time          | 10 min |
+| Pressure Cook Time | 6 min  |
+| Servings           | 6      |
 
 Chicken in spiced tomato sauce, often served over rice. This is a reliable
 recipe with comparatively light prep. The most time consuming part is cutting up the chicken.
 
 ## Ingredients
 
-- 3 T - unsalted butter
-- 5 cloves - garlic (about 5 t crushed or minced)
-- 2 in - ginger root (about 2 T grated)
-- 2 t - garam masala
-- 1 t - ground cumin
-- 1 t - smoked paprika
-- 1 t - ground tumeric
-- 1/2 t - chili powder (optional)
-- 1 t - salt (optional: to taste)
-- 1t - sugar (unneeded, optional)
-- 15oz can - tomato sauce 
-- 2 lbs - chicken thighs (skinnless, boneless,bite size)
-- 1 cup - heavy whipping cream (half and half, yogurt, etc)
-- 2 T - garnish (optional: parsley, mint, cilantro, etc)
+|     |        |                                                       |
+| --: | :----- | ----------------------------------------------------- |
+| 3   | T      | unsalted **butter**                                   |
+| 5   |        | cloves **garlic** (about 5 t crushed or minced)       |
+| 2   | in     | **ginger root** (about 2 T grated)                    |
+| 2   | t      | **garam masala**                                      | 
+| 1   | t      | ground **cumin**                                      |
+| 1   | t      | smoked **paprika**                                    |
+| 1   | t      | ground **tumeric**                                    |
+| 1/2 | t      | **chili powder** (optional)                           |
+| 1   | t      | **salt** (optional: to taste)                         |
+| 1   | t      | **sugar** (unneeded, optional)                        |
+| 1   | can    | (15oz) **tomato sauce**                               |
+| 2   | lbs    | **chicken thighs** (skinnless, boneless,bite size)    |
+| 1   | cup    | **heavy whipping cream** (half and half, yogurt, etc) |
+| 2   | T      | garnish (optional: parsley, mint, cilantro, etc)      |
 
 ## Directions
 
