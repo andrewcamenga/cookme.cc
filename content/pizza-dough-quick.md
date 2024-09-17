@@ -25,8 +25,10 @@ This is the go to recipe for making pizza when no dough was prepared the day bef
 | 2.5 | cup        | **flour**                                                                                    |
 | 1   | teaspoon   | **salt**                                                                                     |
 | 2   | tablespoon | **olive oil**                                                                                |
-| 1/2 | cup        | **rolled oats** (optional) ^[might have to reduce flour a smidge when adding oats]           |
-| •   |            | toppings (optional: cheese, [sauce]({{< ref "pizza-sauce-simple">}}), meats, veggies, fruit) |
+| 1/2 | cup        | **rolled oats** (optional) [^1]                                                              |
+| •   |            | toppings (optional)<br/>cheese, [sauce]({{< ref "pizza-sauce-simple">}}), meats, veggies, …) |
+
+[^1]: might have to reduce flour a smidge when adding oats
 
 ## Directions
 

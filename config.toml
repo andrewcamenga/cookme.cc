@@ -1,6 +1,6 @@
 baseURL = 'http://cooking.local/'
 languageCode = 'en-us'
-title = 'LOCALHOST'
+title = 'LOCAL - COOKME.CC'
 theme = 'lugo'
 enableEmoji = true
 
