@@ -264,6 +264,7 @@ button#clear-search:hover {
 #tag_spicy:before { content: "🌶️" ; }
 #tag_spread:before { content: "🧈" ; }
 #tag_steak:before { content: "🥩" ; }
+#tag_steamed:before { content: "☁️";}
 #tag_stew:before { content: "🍲" ; }
 #tag_swedish:before { content: "🇸🇪" ; }
 #tag_sweet:before { content: "🍯" ; }
