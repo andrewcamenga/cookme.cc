@@ -1,7 +1,6 @@
 ---
 title: Butter Chicken
-tags: ['chicken','indian','instant pot']
-author: ajcam
+tags: ['dinner', 'instantpot', 'indian', 'chicken']
 date: 2024-09-13
 sourceurl: https://littlesunnykitchen.com/instant-pot-butter-chicken/
 pdf: butter-chicken.pdf
@@ -20,22 +19,22 @@ recipe with comparatively light prep. The most time consuming part is cutting up
 
 ## Ingredients
 
-|     |        |                                                       |
-| --: | :----- | ----------------------------------------------------- |
-| 3   | T      | unsalted **butter**                                   |
-| 5   |        | cloves **garlic** (about 5 t crushed or minced)       |
-| 2   | in     | **ginger root** (about 2 T grated)                    |
-| 2   | t      | **garam masala**                                      | 
-| 1   | t      | ground **cumin**                                      |
-| 1   | t      | smoked **paprika**                                    |
-| 1   | t      | ground **tumeric**                                    |
-| 1/2 | t      | **chili powder** (optional)                           |
-| 1   | t      | **salt** (optional: to taste)                         |
-| 1   | t      | **sugar** (unneeded, optional)                        |
-| 1   | can    | (15oz) **tomato sauce**                               |
-| 2   | lbs    | **chicken thighs** (skinnless, boneless,bite size)    |
-| 1   | cup    | **heavy whipping cream** (half and half, yogurt, etc) |
-| 2   | T      | garnish (optional: parsley, mint, cilantro, etc)      |
+|     |            |                                                       |
+| :-- | :--------- | ----------------------------------------------------- |
+|   3 | tablespoon | unsalted **butter**                                   |
+|   5 | cloves     | **garlic** (about 5 t crushed or minced)              |
+|   2 | in         | **ginger root** (about 2 T grated)                    |
+|   2 | teaspoon   | **garam masala**                                      | 
+|   1 | teaspoon   | ground **cumin**                                      |
+|   1 | teaspoon   | smoked **paprika**                                    |
+|   1 | teaspoon   | ground **tumeric**                                    |
+| 1/2 | teaspoon   | **chili powder** (optional)                           |
+|   1 | teaspoon   | **salt** (optional: to taste)                         |
+|   1 | teaspoon   | **sugar** (unneeded, optional)                        |
+|   1 | can        | (15oz) **tomato sauce**                               |
+|   2 | pound      | **chicken thighs** (skinnless, boneless,bite size)    |
+|   1 | cup        | **heavy whipping cream** (half and half, yogurt, etc) |
+|   2 | tablespoon | garnish (optional: parsley, mint, cilantro, etc)      |
 
 ## Directions
 

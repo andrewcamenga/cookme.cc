@@ -2,7 +2,11 @@
 sourceurl: https://www.bowlofdelicious.com/instant-pot-split-pea-soup-ham-bone/
 title: Split Pea Soup with Ham
 pdf: splitpea-soup.pdf
+tags: ['soup','instantpot']
+date: 2024-09-13
 ---
+
+**NOTE:** Instant Pot version
 
 
 |                    |        |
@@ -15,18 +19,18 @@ pdf: splitpea-soup.pdf
 
 ## Ingredients
 
-|     |     |                                                     |
-| ---:|:---:|:--------------------------------------------------- |
-|   3 |  T  | **butter**                                          |
-|   1 |     | **diced onion**                                     |
-|   2 |     | ribs **diced celery**                               |
-|   2 |     | **diced carrots**                                   |
-|   1 |     | **ham bone** of ham hock<br/>or 6oz deli ham        |
-|   1 | lb  | **dry split peas** (sorted & rinsed)                |
-|   6 |  c  | **chicken broth**<br/>(or veggie broth, water, mix) |
-|   2 |     | **bay leaves**                                      |
-|   ? |     | **salt and pepper** to taste                        |
-|   • |     | **garnish**, optional (parsley, etc.)               |
+|     |            |                                                     |
+| :-- | :--------- |:--------------------------------------------------- |
+|   3 | tablespoon | **butter**                                          |
+|   1 |            | **diced onion**                                     |
+|   2 |    rib     | **diced celery**                                    |
+|   2 |            | **diced carrots**                                   |
+|   1 |            | **ham bone** of ham hock<br/>or 6oz deli ham        |
+|   1 |   pound    | **dry split peas** (sorted & rinsed)                |
+|   6 |    cup     | **chicken broth**<br/>(or veggie broth, water, mix) |
+|   2 |            | **bay leaves**                                      |
+|   ? |            | **salt and pepper** to taste                        |
+|   • |            | **garnish**, optional (parsley, etc.)               |
 
 ## Directions
 

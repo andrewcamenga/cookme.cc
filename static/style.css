@@ -194,6 +194,7 @@ button#clear-search:hover {
 #tag_australian:before { content: "🇦🇺" ;}
 #tag_austrian:before { content: "🇦🇹" ;}
 #tag_bacon:before { content: "🥓" ; }
+#tag_basics:before { content: "🥄" ; }
 #tag_beans:before { content: "🫘" ; }
 #tag_beef:before { content: "🐄" ; }
 #tag_belgian:before { content: "🇧🇪" ; }
@@ -211,6 +212,7 @@ button#clear-search:hover {
 #tag_corn:before { content: "🌽" ;}
 #tag_curry:before { content: "🍛" ; }
 #tag_dessert:before { content: "🍮" ; }
+#tag_dinner:before { content: "🍽" ;}
 #tag_dominican:before { content: "🇩🇴" ;}
 #tag_drink:before { content: "🍹" ;}
 #tag_duck:before { content: "🦆" ; }
@@ -227,6 +229,7 @@ button#clear-search:hover {
 #tag_german:before { content: "🇩🇪" ; }
 #tag_greek:before { content: "🇬🇷" ; }
 #tag_indian:before { content: "🇮🇳" ; }
+#tag_instantpot:before { content: "⚱️"}
 #tag_irish:before { content: "🇮🇪" ; }
 #tag_israeli:before { content: "🇮🇱" ; }
 #tag_italian:before { content: "🇮🇹" ; }
@@ -277,29 +280,5 @@ button#clear-search:hover {
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_wine:before { content: "🍷" ; }
-
-.cryptocontainer {
-    display: flex ;
-    flex-wrap: wrap ;
-    justify-content: center ;
-}
-.cryptoinfo {
-    max-width: 350px ;
-    text-align: center ;
-    padding-left: 10px ;
-    padding-right: 10px ;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-.cryptoinfo code {
-	font-size: small ;
-	overflow-wrap: break-word ;
-}
-.qr {
-    max-height: 150px; ;
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
 
 .js-only { display: none ; }

@@ -1,7 +1,7 @@
 ---
 title: Sourdough Starter
 sourceurl: https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-scratch/print/10771/
-tags: ['sourdough','starter']
+tags: ['sourdough','basics', "bread"]
 date: 2024-09-16
 pdf: sourdough-starter.pdf
 ---
@@ -12,11 +12,11 @@ Create your own sourdough starter from scratch at home in just a few days. Once 
 
 ## Ingredients
 
-|   |   |   |
-| - | - | - |
-| 300 | g | **all-purpose flour** |
-| 400 | g | whole-grain **rye flour** |
-| 800 | g | **water** |
+|     |       |                           |
+| :-- | :---- | :------------------------ |
+| 300 | grams | **all-purpose flour**     |
+| 400 | grams | whole-grain **rye flour** |
+| 800 | grams | **water**                 |
 
 ## Directions
 

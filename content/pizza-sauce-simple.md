@@ -2,8 +2,9 @@
 title: No Cook Pizza Sauce
 tags: ['pizza', 'tomato']
 date: 2023-02-20
-author: "Andrew J. Camenga"
+author: ajcam
 pdf: pizza-sauce-simple.pdf
+tags: ['basics', 'pizza']
 source: none - original
 ---
 
@@ -11,14 +12,14 @@ This is the recipe for pizza sauce that I crafted in 2022 for family night pizza
 
 ## Ingredients
 
-|     |     |                          |
-| ---:|:--- | ------------------------ |
-|   1 | can | (15 oz) **Tomato Sauce** |
-|   1 | T   | **Worcestershire Sauce** |
-|   1 | T   | dried **Oregano**        |
-|   2 | t   | **Garlic Powder**        | 
-|   1 | t   | dried **Basil**          |
-| 1/8 | t   | dried **Cayenne Powder** |
+|     |            |                          |
+| :-- | :--------- | :----------------------- |
+|   1 | can        | (15 oz) **Tomato Sauce** |
+|   1 | tablespoon | **Worcestershire Sauce** |
+|   1 | tablespoon | dried **Oregano**        |
+|   2 | teaspoon   | **Garlic Powder**        |
+|   1 | teaspoon   | dried **Basil**          |
+| 1/8 | teaspoon   | dried **Cayenne Powder** |
 
 ## Directions
 

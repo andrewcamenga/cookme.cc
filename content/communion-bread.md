@@ -6,19 +6,23 @@ source: "typed index card, original lost without image"
 pdf: communion-bread.pdf
 ---
 
-- Prep Time: unknown
-- Oven Temp: "slow"
+|           |         |
+| --------- | ------- |
+| Prep Time | unknown |
+| Oven Temp | "slow"  |
 
 This is the recipe that is used to prepare the communion bread for the German SDB Church.
 
 ## Ingredients
 
-- 10 cups flour
-- 1 pound butter
-- 3-5 tablespoon sugar
-- 1/2 pint cream
-- 1 pint milk
-- 1/2 teaspoon salt
+|     |            |        | 
+| :-- | :--------- | :----- |
+| 10  | cups       | flour  |
+| 1   | pound      | butter |
+| 3-5 | tablespoon | sugar  |
+| 1/2 | pint       | cream  |
+| 1   | pint       | milk   |
+| 1/2 | teaspoon   | salt   |
 
 ## Directions
 
