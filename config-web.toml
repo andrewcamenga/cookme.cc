@@ -1,4 +1,4 @@
-baseURL = 'http://cookme.cc/'
+baseURL = 'https://cookme.cc/'
 languageCode = 'en-us'
 title = 'CookMe.cc - An Open Recipe Box'
 theme = 'lugo'
