@@ -1,5 +1,5 @@
 ---
-title: German SDB Communion Bread
+title: Communion Bread (used at German SDB)
 tags: ['communion','bread']
 date: 2020-11-15
 source: "typed index card, original lost without image"
