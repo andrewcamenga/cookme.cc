@@ -16,6 +16,7 @@
 </head>
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
+{{ if not .IsHome }}<div class="no-print" style="text-align:center;"><a href="\">Home</a></div>{{ end }}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
 {{with .Params.pdf}}<div class="no-print" style="text-align:right;"><b><a href="\pdf\{{.}}" target="_blank">PDF index card</a></b></div>{{ end -}}
