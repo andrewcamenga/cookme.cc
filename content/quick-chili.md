@@ -1,5 +1,4 @@
 ---
-sourceurl: https://cookme.cc/quick-chili/
 title: Quick Chili
 pdf: quick-chili.pdf
 tags: ['dinner','beef']
