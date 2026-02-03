@@ -16,22 +16,28 @@ Revision:2025-10-19
 
 ## Ingredients
 
+
+### Main
+
 |       |             |                                   |
 |:----- |:----------- |:--------------------------------- |
 | 1     | pound       | ground beef                       |
+| 1-2   | cups        | frozen corn (or 1 can)            |
+| 1     | 15 0z can   | tomato sauce                      |
+| 2-3   | 15 oz can   | kidney beans (drained)            |
+
+### Spices
+|       |             |                                   |
+|:----- |:----------- |:--------------------------------- |
 | 1 1/2 | tablespoons | chili powder                      |
 | 1/2   | tablespoons | ground cumin                      |
 | 1     | tablespoon  | minced dried onion                |
 | 1/2   | tablespoon  | dried oregano                     |
-| 1/1   | tablespoon  | dried basic                       |
+| 1/2   | tablespoon  | dried basil                       |
 | 1     | teaspoon    | granulated dried garlic           |
 | 1     | teaspoon    | cocoa powder (optional)           |
 | 1/2   | teaspoon    | crushed red pepper                |
 | 1/8   | teaspoon    | cayenne pepper (or more to taste) |
-| 1-2   | cups        | frozen corn                       |
-| 1     | 15 0z can   | tomato sauce                      |
-| 2-3   | 15 oz can   | kidney beans (drained)            |
-
 
 ## Directions
 
