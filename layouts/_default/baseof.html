@@ -2,7 +2,6 @@
 <html lang="{{ .Site.Language }}">
 <head>
         {{ $buildTime := now.UTC.Format "Jan 2, 2006 at 3:04pm (MST)" }}{{ printf `<meta name="build-time" content="%s">` $buildTime | safeHTML }}
-        <meta name="build-time" content="{{ now.UTC.Format "2006-01-02T15:04:05Z07:00" }}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="index, follow">
         <meta charset="utf-8">
