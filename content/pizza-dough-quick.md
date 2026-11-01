@@ -15,8 +15,6 @@ pdf: pizza-dough-quick.pdf
 
 This is the go to recipe for making pizza when no dough was prepared the day before. It is the one we use most often.
 
-test
-
 ## Ingredients 
 
 |     |            |                                                                                              |

@@ -1,6 +1,5 @@
 ---
 title: No Cook Pizza Sauce
-tags: ['pizza', 'tomato']
 date: 2023-02-20
 author: ajcam
 pdf: pizza-sauce-simple.pdf
